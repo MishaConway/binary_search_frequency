@@ -18,8 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
- [1,2,4,4,5,5,5,6,6,7,8,9].bfrequency 5
- => 3
+ [1,2,4,4,5,5,5,6,6,7,8,9].bfrequency 5    #returns 3 since the number 5 appears three times in the array
+
 
 ## Contributing
 
