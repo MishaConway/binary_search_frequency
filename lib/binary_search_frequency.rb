@@ -1,5 +1,3 @@
 require "binary_search_frequency/version"
-
-module BinarySearchFrequency
-  # Your code goes here...
-end
+require "binary_search_frequency/binary_search_frequency"
+require "binary_search_frequency/array"

@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = BinarySearchFrequency::VERSION
   spec.authors       = ["Misha Conway"]
   spec.email         = ["mishaAconway@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{ruby gem for getting the frequency of an item in a sorted array in log time}
+  spec.description   = %q{ruby gem for getting the frequency of an item in a sorted array in log time}
   spec.homepage      = ""
   spec.license       = "MIT"
 
