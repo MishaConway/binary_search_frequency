@@ -1,6 +1,6 @@
 # BinarySearchFrequency
 
-TODO: Write a gem description
+Can be used to get the frequency of an item in an already sorted array in logarithmic time using a modified binary search.
 
 ## Installation
 
@@ -18,7 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+ [1,2,4,4,5,5,5,6,6,7,8,9].bfrequency 5
+ => 3
 
 ## Contributing
 

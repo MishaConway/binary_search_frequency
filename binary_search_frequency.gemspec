@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["mishaAconway@gmail.com"]
   spec.summary       = %q{ruby gem for getting the frequency of an item in a sorted array in log time}
   spec.description   = %q{ruby gem for getting the frequency of an item in a sorted array in log time}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/MishaConway/binary_search_frequency"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
