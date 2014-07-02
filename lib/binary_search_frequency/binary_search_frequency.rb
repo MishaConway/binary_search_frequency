@@ -3,7 +3,7 @@ module BinarySearchFrequency
     left_index = left_binary_search(number, 0, size - 1)
 
     if left_index
-      right_index = right_binary_search(number, 0, size - 1)
+      right_index = right_binary_search(number, left_index, size - 1)
       right_index - left_index + 1
     else
       0
